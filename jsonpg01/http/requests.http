@@ -1,0 +1,40 @@
+#GET http://localhost:5000/api/json
+
+#GET http://localhost:5000/api/json/2
+
+#GET http://localhost:5000/api/json/54
+
+#GET http://localhost:5000/api/json/101
+
+# POST http://localhost:5000/api/json
+# Content-Type: application/json
+
+# {
+#     "userId" : 1,
+#     "title" : "Something",
+#     "body" : "Something a little longer"
+# }
+
+# POST http://localhost:5000/api/json
+# Content-Type: application/json
+
+# {
+#     "userId" : 101,
+#     "title" : "Something",
+#     "body" : "Something a little longer"
+# }
+
+# PUT http://localhost:5000/api/json/101
+# Content-Type: application/json
+
+# {
+#     "id" : 101,
+#     "userId" : 1,
+#     "title" : "Something",
+#     "body" : "Something a little longer"
+# }
+
+#DELETE http://localhost:5000/api/json/99
+
+# Comment multiple lines : Ctrl + K + C
+# Uncomment multiple lines : Ctrl + K + U

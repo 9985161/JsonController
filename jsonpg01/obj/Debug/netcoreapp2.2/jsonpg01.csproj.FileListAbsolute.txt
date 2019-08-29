@@ -1,0 +1,14 @@
+H:\Desktop\jsonpg01\bin\Debug\netcoreapp2.2\jsonpg01.deps.json
+H:\Desktop\jsonpg01\bin\Debug\netcoreapp2.2\jsonpg01.runtimeconfig.json
+H:\Desktop\jsonpg01\bin\Debug\netcoreapp2.2\jsonpg01.runtimeconfig.dev.json
+H:\Desktop\jsonpg01\bin\Debug\netcoreapp2.2\jsonpg01.dll
+H:\Desktop\jsonpg01\bin\Debug\netcoreapp2.2\jsonpg01.pdb
+H:\Desktop\jsonpg01\obj\Debug\netcoreapp2.2\jsonpg01.csprojAssemblyReference.cache
+H:\Desktop\jsonpg01\obj\Debug\netcoreapp2.2\jsonpg01.csproj.CoreCompileInputs.cache
+H:\Desktop\jsonpg01\obj\Debug\netcoreapp2.2\jsonpg01.RazorAssemblyInfo.cache
+H:\Desktop\jsonpg01\obj\Debug\netcoreapp2.2\jsonpg01.RazorAssemblyInfo.cs
+H:\Desktop\jsonpg01\obj\Debug\netcoreapp2.2\jsonpg01.AssemblyInfoInputs.cache
+H:\Desktop\jsonpg01\obj\Debug\netcoreapp2.2\jsonpg01.AssemblyInfo.cs
+H:\Desktop\jsonpg01\obj\Debug\netcoreapp2.2\jsonpg01.RazorTargetAssemblyInfo.cache
+H:\Desktop\jsonpg01\obj\Debug\netcoreapp2.2\jsonpg01.dll
+H:\Desktop\jsonpg01\obj\Debug\netcoreapp2.2\jsonpg01.pdb
